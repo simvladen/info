@@ -554,16 +554,17 @@ body._lock {
   color: #333333;
   margin-bottom: 34px;
 }
-@media (max-width: 767px) {
-  .header__body__text1 {
-    font-size: 30px !important;
-  }
-}
 @media (max-width: 992px) {
   .header__body__text1 {
     font-size: 35px !important;
   }
 }
+@media (max-width: 767px) {
+  .header__body__text1 {
+    font-size: 30px !important;
+  }
+}
+
 
 .header__body__text2 {
   font-size: 24px;
