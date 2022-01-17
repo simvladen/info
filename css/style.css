@@ -556,12 +556,12 @@ body._lock {
 }
 @media (max-width: 992px) {
   .header__body__text1 {
-    font-size: 35px !important;
+    font-size: 30px ;
   }
 }
 @media (max-width: 767px) {
   .header__body__text1 {
-    font-size: 30px !important;
+    font-size: 25px ;
   }
 }
 
