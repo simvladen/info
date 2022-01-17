@@ -138,7 +138,7 @@ body._lock {
 }
 
 .header {
-  background: url(./img/bg.png) 0 0/cover no-repeat;
+  background: url(../img/bg.png) 0 0/cover no-repeat;
 }
 
 .header-page {
@@ -272,7 +272,7 @@ body._lock {
   margin-bottom: 8px;
 }
 .header__number::before {
-  content: url(./img/icons/icon4.png);
+  content: url(../img/icons/icon4.png);
   width: 16px;
   height: 16px;
   padding-right: 9px;
@@ -284,7 +284,7 @@ body._lock {
   color: #333333;
 }
 .header__mail::before {
-  content: url(./img/icons/icon5.png);
+  content: url(../img/icons/icon5.png);
   width: 16px;
   height: 16px;
   padding-right: 9px;
@@ -896,7 +896,7 @@ body._lock {
   top: 3px;
 }
 .edu__slide__status::after {
-  content: url(./img/icons/icon6.png);
+  content: url(../img/icons/icon6.png);
   position: absolute;
   top: -1px;
   left: -14px;
@@ -1037,7 +1037,7 @@ body._lock {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: url(./img/bg1.png) right/40% 100% no-repeat;
+  background: url(../img/bg1.png) right/40% 100% no-repeat;
   padding: 41px 0 41px 31px;
   margin-right: 30px;
   overflow: hidden;
@@ -1514,14 +1514,14 @@ body._lock {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: url(./img/bg2.png) 0 0/cover no-repeat;
+  background: url(../img/bg2.png) 0 0/cover no-repeat;
   padding: 40px;
   height: 376px;
   margin-bottom: 30px;
 }
 @media (max-width: 1200px) {
   .info__row {
-    background: url(./img/bg.png) 0 0/cover no-repeat;
+    background: url(../img/bg.png) 0 0/cover no-repeat;
   }
 }
 @media (max-width: 767px) {
@@ -1774,7 +1774,7 @@ body._lock {
 }
 
 .registration {
-  background: url(./img/form-bg.png) 0 0/cover no-repeat;
+  background: url(../img/form-bg.png) 0 0/cover no-repeat;
   padding-top: 40px;
 }
 @media (max-width: 1200px) {
@@ -2039,7 +2039,7 @@ body._lock {
 }
 
 .contacts {
-  background: url(./img/bg-contact.png) 0 0/cover no-repeat;
+  background: url(../img/bg-contact.png) 0 0/cover no-repeat;
 }
 
 .contacts__columns {
